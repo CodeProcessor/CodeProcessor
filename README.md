@@ -10,6 +10,10 @@
 - 💬 Ask me about anything?! 🤣
 - ⚡ Fun fact: I love cycling and playing chess. 
 
+### Github stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeProcessor&show_icons=true)
+
 ### Connect with me:
 
 [<img align="left" alt="about.dulanj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,6 +21,7 @@
 [<img align="left" alt="CodeProcessor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="CodeProcessor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CodeProcessor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [website]: https://about.dulanj.com
 [youtube]: https://www.youtube.com/channel/UCe6OrH-94NEKqg2jM31hm4g
