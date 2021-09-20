@@ -10,9 +10,9 @@
 - 💬 Ask me about anything?! 🤣
 - ⚡ Fun fact: I love cycling and playing chess. 
 
-### Github stats
+### My GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeProcessor&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeProcessor&show_icons=true&hide_title=true&include_all_commits=true)
 
 ### Connect with me:
 
