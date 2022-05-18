@@ -26,7 +26,7 @@
 
  ---
 
-![Dulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeProcessor&show_icons=true&hide_title=true&include_all_commits=true&&theme=dark)
+![Dulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeProcessor&show_icons=true&hide_title=false&include_all_commits=true&&theme=dark)
 
 [website]: https://about.dulanj.com
 [youtube]: https://www.youtube.com/channel/UCe6OrH-94NEKqg2jM31hm4g
