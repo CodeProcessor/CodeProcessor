@@ -10,10 +10,6 @@
 - 💬 Ask me about anything?! 🤣
 - ⚡ Fun fact: I love cycling and playing chess. 
 
-### My GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeProcessor&show_icons=true&hide_title=true&include_all_commits=true)
-
 ### Connect with me:
 
 [<img align="left" alt="about.dulanj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -24,12 +20,18 @@
 
 
 <br />
-
+ 
 ### ▶ Tech Stack
 <img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height= 50 width = 50> <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height= 50 width = 50>  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height= 50 width = 50>  <img src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" height= 50 width = 50>   <img src= "https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" height= 50 width = 50> <img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height= 50 width = 50>  <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height= 50 width = 50> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height= 50 width = 50>  
+
+ ---
+
+![Dulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeProcessor&show_icons=true&hide_title=true&include_all_commits=true&&theme=dark)
 
 [website]: https://about.dulanj.com
 [youtube]: https://www.youtube.com/channel/UCe6OrH-94NEKqg2jM31hm4g
 [twitter]: https://twitter.com/_dulanj_
 [instagram]: https://www.instagram.com/_dulanj_
 [linkedin]: https://www.linkedin.com/in/dulanj
+
+
