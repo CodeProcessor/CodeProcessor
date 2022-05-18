@@ -1,4 +1,4 @@
-### Hi there, I'm Dulan aka [CodeProcessor][website] 👋
+### Hi there, I'm Dulan aka [CodeProcessor][website]  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 [![Website](https://img.shields.io/website?label=about.dulanj.com&style=for-the-badge&url=https%3A%2F%2Fabout.dulanj.com)](https://about.dulanj.com)
 
@@ -22,6 +22,11 @@
 [<img align="left" alt="CodeProcessor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CodeProcessor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+<br />
+
+### ▶ Tech Stack
+<img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height= 50 width = 50> <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height= 50 width = 50>  <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height= 50 width = 50>  <img src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" height= 50 width = 50>   <img src= "https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" height= 50 width = 50> <img src= "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height= 50 width = 50>  <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height= 50 width = 50> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height= 50 width = 50>  
 
 [website]: https://about.dulanj.com
 [youtube]: https://www.youtube.com/channel/UCe6OrH-94NEKqg2jM31hm4g
