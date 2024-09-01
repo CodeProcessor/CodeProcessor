@@ -1,6 +1,6 @@
 ### Hi there, I'm Dulan aka [CodeProcessor][website]  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-[![Website](https://img.shields.io/website?label=about.dulanj.com&style=for-the-badge&url=https%3A%2F%2Fabout.dulanj.com)](https://me.dulanj.com)
+[![Website](https://img.shields.io/website?label=me.dulanj.com&style=for-the-badge&url=https%3A%2F%2Fme.dulanj.com)](https://me.dulanj.com)
 
 ## I'm a Friend, Engineer, Developer, and Teacher!!
 
