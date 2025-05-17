@@ -10,6 +10,8 @@
 - 💬 Ask me about anything?! 🤣
 - ⚡ Fun fact: I love cycling and playing chess. 
 
+<a href="https://app.daily.dev/dulanj"><img src="https://api.daily.dev/devcards/v2/MS3SF3xHFwmrcKYMbVTLX.png?r=bq3&type=default" width="356" alt="Dulan's Dev Card"/></a>
+
 ### Connect with me:
 
 [<img align="left" alt="about.dulanj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
